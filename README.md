@@ -11,9 +11,9 @@
 
 ---
 
-### 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/YOUR-HANDLE-HERE)
+### 🔗 Links  
+[![Unstop](https://img.shields.io/badge/Unstop-Profile-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIxOS41IDE0Mi40bC01OC40IDM0LjV2LTY3LjRsNTguNC0zNC41djY3LjR6TTM1LjkgMTE0LjhsNTguNCAzNC41di02Ny40TDM1LjkgNDcuM3Y2Ny41ek0xMjggMTI4bDU4LjQgMzQuNS02NS41IDM4LjktNTguNC0zNC41TDMyLjUgMTI4bDY1LjUtMzguOSAyNy4yIDE2LjF6TTI0My44IDEwMi44TDE4MyAxMzcuM3YtNjkuOGw1MC44LTI5LjRsMTAuMiA1LjktLjIgNTkuOHoiLz48L3N2Zz4=&logoColor=white)](https://unstop.com/u/jaskasin8561)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaskaran-singh-8a42ab2b1/)
 
 ---
 
