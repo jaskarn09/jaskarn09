@@ -45,3 +45,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaskarn09&show_icons=true&theme=tokyonight" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskarn09&layout=compact&theme=tokyonight" width="47%" />
 </p>
+
+📫 Let's Collaborate!
+<div align="center">
+  <p><em>I'm always excited to work on interesting projects and learn from the community!</em></p>
+  <p>Feel free to reach out if you want to:</p>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🤝<br><b>Collaborate</b><br>on open source projects</td>
+      <td align="center">💡<br><b>Discuss</b><br>tech ideas & innovations</td>
+    </tr>
+    <tr>
+      <td align="center">🎓<br><b>Share</b><br>learning resources</td>
+      <td align="center">💼<br><b>Explore</b><br>internship opportunities</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>⭐ Thanks for visiting my profile! ⭐</h3>
+</div>
